@@ -1,5 +1,5 @@
 # 💼 About me
-🎓 Eletronic Engineer from CEFET-RJ <br>
+🎓 Electronic Engineer from CEFET-RJ <br>
 🛠️ Experience in Data Engineering and Analytics 
 
 ## 🛠️ Technical Skills
