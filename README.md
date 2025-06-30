@@ -1,5 +1,5 @@
 # About me
-🎓 Eletronic Engineer from CEFET-RJ 
+🎓 Eletronic Engineer from CEFET-RJ <br>
 🛠️ Experience in Data Engineering and Analytics 
 
 ## 🛠️ Technical Skills
@@ -28,6 +28,6 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 #### Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroazevedoc/)]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroazevedoc/)
 
 
